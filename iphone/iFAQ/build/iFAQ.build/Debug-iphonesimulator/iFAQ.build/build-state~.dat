@@ -1,261 +1,0 @@
-TiFAQ
-v7
-r0
-t274043184.556179
-cCheck dependencies
-cProcessInfoPlistFile /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/Info.plist iFAQ-Info.plist
-cCompileXIB /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/MainWindow.xib
-cCompileXIB /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/RootViewController.xib
-cProcessPCH /var/folders/Oe/OehYMNikFGKdzfrmcMF22++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iFAQ_Prefix-eievhltxfchfvueltutxwkphhgaq/iFAQ_Prefix.pch.gch iFAQ_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/Objects-normal/i386/main.o /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/Objects-normal/i386/iFAQAppDelegate.o /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/Classes/iFAQAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/Objects-normal/i386/RootViewController.o /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/iFAQ normal i386
-cGenerateDSYMFile /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app.dSYM /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/iFAQ
-cTouch /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
-c000000004AA5576700000000000000EE
-t1252349799
-s238
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004A0BAA26000000000026EE80
-t1242278438
-s2551424
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004A0BAB370000000000261F90
-t1242278711
-s2498448
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004A0BAB250000000000001355
-t1242278693
-s4949
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004A0CBEBB000000000000075E
-t1242349243
-s1886
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004A0CBF5F0000000001434100
-t1242349407
-s21184768
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/Availability.h
-c000000004A0BAC5D00000000000019D8
-t1242279005
-s6616
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/Classes/RootViewController.h
-c000000004AA5599D00000000000000D2
-t1252350365
-s210
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/Classes/RootViewController.m
-c000000004AA5599D0000000000000FFF
-t1252350365
-s4095
-i"RootViewController.h"
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/Classes/iFAQAppDelegate.h
-c000000004AA5599D00000000000001B4
-t1252350365
-s436
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/Classes/iFAQAppDelegate.m
-c000000004AA5599D000000000000032D
-t1252350365
-s813
-i"iFAQAppDelegate.h"
-i"RootViewController.h"
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/MainWindow.xib
-c000000004AA5599D0000000000002C1C
-t1252350365
-s11292
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/RootViewController.xib
-c000000004AA5599D0000000000001F56
-t1252350365
-s8022
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app
-t1252350384
-s238
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app.dSYM
-t1252350384
-s102
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/Info.plist
-t1252350382
-s550
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/MainWindow.nib
-t1252350383
-s2009
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/PkgInfo
-t1252350382
-s8
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/RootViewController.nib
-t1252350383
-s1432
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/iFAQ
-t1252350384
-s20264
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/Objects-normal/i386/RootViewController.o
-t1252350384
-s32132
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/Objects-normal/i386/iFAQ.LinkFileList
-c000000004AA559AE000000000000019C
-t1252350382
-s412
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/Objects-normal/i386/iFAQAppDelegate.o
-t1252350384
-s39464
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/Objects-normal/i386/main.o
-t1252350384
-s5968
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/iFAQ_Prefix.pch
-c000000004AA5599D000000000000013A
-t1252350365
-s314
-i<Availability.h>
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/main.m
-c000000004AA5599D0000000000000169
-t1252350365
-s361
-i<UIKit/UIKit.h>
-
-N/var/folders/Oe/OehYMNikFGKdzfrmcMF22++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iFAQ_Prefix-eievhltxfchfvueltutxwkphhgaq/iFAQ_Prefix.pch.gch
-t1252350383
-s12957072
-
-NiFAQ-Info.plist
-c000000004AA5599D000000000000038D
-t1252350365
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies274043182#274043182#0(0"0(0#1#0"7947009927035180032#0"0#
-
-CCompileC build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/Objects-normal/i386/RootViewController.o /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s274043184.083649
-e274043184.140721
-r1
-xCompileC
-xbuild/iFAQ.build/Debug-iphonesimulator/iFAQ.build/Objects-normal/i386/RootViewController.o
-x/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/Classes/RootViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@88"Compile /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/Classes/RootViewController.m274043184#274043184#0(0"0(0#0#80"/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/Classes/RootViewController.m4300882208#1976"    cd /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/iFAQ-generated-files.hmap -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/iFAQ-own-target-headers.hmap -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/iFAQ-all-target-headers.hmap -iquote /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/iFAQ-project-headers.hmap -F/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/include -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/DerivedSources/i386 -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/DerivedSources -include /var/folders/Oe/OehYMNikFGKdzfrmcMF22++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iFAQ_Prefix-eievhltxfchfvueltutxwkphhgaq/iFAQ_Prefix.pch -c /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/Classes/RootViewController.m -o /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/Objects-normal/i386/RootViewController.o0#
-
-CCompileC build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/Objects-normal/i386/iFAQAppDelegate.o /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/Classes/iFAQAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s274043183.923266
-e274043184.101121
-r1
-xCompileC
-xbuild/iFAQ.build/Debug-iphonesimulator/iFAQ.build/Objects-normal/i386/iFAQAppDelegate.o
-x/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/Classes/iFAQAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@85"Compile /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/Classes/iFAQAppDelegate.m274043183#274043184#0(0"0(0#0#77"/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/Classes/iFAQAppDelegate.m4300882208#1970"    cd /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/iFAQ-generated-files.hmap -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/iFAQ-own-target-headers.hmap -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/iFAQ-all-target-headers.hmap -iquote /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/iFAQ-project-headers.hmap -F/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/include -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/DerivedSources/i386 -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/DerivedSources -include /var/folders/Oe/OehYMNikFGKdzfrmcMF22++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iFAQ_Prefix-eievhltxfchfvueltutxwkphhgaq/iFAQ_Prefix.pch -c /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/Classes/iFAQAppDelegate.m -o /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/Objects-normal/i386/iFAQAppDelegate.o0#
-
-CCompileC build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/Objects-normal/i386/main.o /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s274043183.922177
-e274043184.083556
-r1
-xCompileC
-xbuild/iFAQ.build/Debug-iphonesimulator/iFAQ.build/Objects-normal/i386/main.o
-x/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@66"Compile /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/main.m274043183#274043184#0(0"0(0#0#58"/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/main.m4300882208#1940"    cd /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/iFAQ-generated-files.hmap -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/iFAQ-own-target-headers.hmap -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/iFAQ-all-target-headers.hmap -iquote /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/iFAQ-project-headers.hmap -F/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/include -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/DerivedSources/i386 -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/DerivedSources -include /var/folders/Oe/OehYMNikFGKdzfrmcMF22++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iFAQ_Prefix-eievhltxfchfvueltutxwkphhgaq/iFAQ_Prefix.pch -c /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/main.m -o /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/MainWindow.xib
-s274043182.755198
-e274043183.146607
-r1
-xCompileXIB
-x/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/MainWindow.xib
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-lSLF07#2@25"CompileXIB MainWindow.xib274043182#274043183#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#66"/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/MainWindow.xib4300882208#467"    cd /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/MainWindow.nib /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/MainWindow.xib0#
-
-CCompileXIB /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/RootViewController.xib
-s274043182.798053
-e274043183.144858
-r1
-xCompileXIB
-x/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/RootViewController.xib
-lSLF07#2@33"CompileXIB RootViewController.xib274043182#274043183#0(0"0(0#0#74"/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/RootViewController.xib4300882208#483"    cd /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/RootViewController.nib /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/RootViewController.xib0#
-
-CGenerateDSYMFile /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app.dSYM /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/iFAQ
-s274043184.501510
-e274043184.553559
-r1
-xGenerateDSYMFile
-x/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app.dSYM
-x/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/iFAQ
-lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/iFAQ.app.dSYM build/Debug-iphonesimulator/iFAQ.app/iFAQ274043184#274043184#0(0"0(0#0#93"/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/iFAQ4300882208#413"    cd /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/iFAQ -o /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app.dSYM0#
-
-CLd /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/iFAQ normal i386
-s274043184.140809
-e274043184.501352
-r1
-xLd
-x/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/iFAQ
-xnormal
-xi386
-lSLF07#2@98"Link /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/iFAQ274043184#274043184#0(0"0(0#0#0"4300882208#912"    cd /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator -F/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator -filelist /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/Objects-normal/i386/iFAQ.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/iFAQ0#
-
-CProcessInfoPlistFile /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/Info.plist iFAQ-Info.plist
-s274043182.714235
-e274043182.755097
-r1
-xProcessInfoPlistFile
-x/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/Info.plist
-xiFAQ-Info.plist
-lSLF07#2@23"Process iFAQ-Info.plist274043182#274043182#0(0"0(0#0#67"/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/iFAQ-Info.plist18296174140784688#509"    cd /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iFAQ-Info.plist -genpkginfo /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app/Info.plist0#
-
-CProcessPCH /var/folders/Oe/OehYMNikFGKdzfrmcMF22++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iFAQ_Prefix-eievhltxfchfvueltutxwkphhgaq/iFAQ_Prefix.pch.gch iFAQ_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s274043183.146765
-e274043183.922077
-r1
-xProcessPCH
-x/var/folders/Oe/OehYMNikFGKdzfrmcMF22++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iFAQ_Prefix-eievhltxfchfvueltutxwkphhgaq/iFAQ_Prefix.pch.gch
-xiFAQ_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@26"Precompile iFAQ_Prefix.pch274043183#274043183#0(0"0(0#0#67"/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/iFAQ_Prefix.pch4300882208#1822"    cd /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/iFAQ-generated-files.hmap -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/iFAQ-own-target-headers.hmap -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/iFAQ-all-target-headers.hmap -iquote /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/iFAQ-project-headers.hmap -F/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/include -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/DerivedSources/i386 -I/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/iFAQ.build/Debug-iphonesimulator/iFAQ.build/DerivedSources -c /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/iFAQ_Prefix.pch -o /var/folders/Oe/OehYMNikFGKdzfrmcMF22++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iFAQ_Prefix-eievhltxfchfvueltutxwkphhgaq/iFAQ_Prefix.pch.gch0#
-
-CTouch /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app
-s274043184.553641
-e274043184.556135
-r1
-xTouch
-x/Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app
-lSLF07#2@94"Touch /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app274043184#274043184#0(0"0(0#0#0"4300882208#301"    cd /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/thorsten/WWW/htdocs/pmfMobileKit/iphone/iFAQ/build/Debug-iphonesimulator/iFAQ.app0#
-

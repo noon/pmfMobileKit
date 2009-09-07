@@ -1,0 +1,4 @@
+iphone/iFAQ/build/
+*.o
+*.lo
+*.class

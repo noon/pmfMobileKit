@@ -39,15 +39,15 @@ SearchAssistant.prototype.handleButtonPress = function(event){
 	/*
 	 * Get FAQ-Results
 	 */
+	self = this;
     var request = new Ajax.Request(PMF_URL + this.searchModel.original, {
         method: "get",
         evalJSON: "true",
         onSuccess: function(transport) {
             responseJSON = transport.responseJSON;
-           
+            self.controller.stageController.pushScene('result', responseJSON);
         }
     });
-    this.controller.stageController.pushScene('result', responseJSON); tes
 }
 
 SearchAssistant.prototype.activate = function(event){

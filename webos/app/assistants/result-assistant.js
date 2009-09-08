@@ -3,12 +3,11 @@ function ResultAssistant(argFromPusher) {
        additional parameters (after the scene name) that were passed to pushScene. The reference
        to the scene controller (this.controller) has not be established yet, so any initialization
        that needs the scene controller should be done in the setup function below. */
-    this.currentResult = argFromPusher;
+    this.searchString  = argFromPusher.search;
+    this.currentResult = argFromPusher.response;
 }
 
 ResultAssistant.prototype.setup = function(){
-    /* set resultset area */
-    result = this.currentResult;
     /* set app headline */
     this.controller.get('resultHdr').innerHTML = _APP_Result_Name;
     this.attributes = {
@@ -21,8 +20,9 @@ ResultAssistant.prototype.setup = function(){
             emptyTemplate:'result/emptylist'
     };
     this.model = {
-            listTitle: "Search Result",
-            items: result
+            listTitle: "Search Result for:",
+            searchString: this.searchString,
+            items: this.currentResult
     };
     this.controller.setupWidget("pushList", this.attributes, this.model);
    

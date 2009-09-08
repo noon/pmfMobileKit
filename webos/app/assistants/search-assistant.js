@@ -45,7 +45,11 @@ SearchAssistant.prototype.handleButtonPress = function(event){
         evalJSON: "true",
         onSuccess: function(transport) {
             responseJSON = transport.responseJSON;
-            self.controller.stageController.pushScene('result', responseJSON);
+            var arguments = {
+                    response : responseJSON,
+                    search : self.searchModel.original
+            };
+            self.controller.stageController.pushScene('result', arguments);
         }
     });
 }
